@@ -1,0 +1,48 @@
+body{
+    background-color: grey;
+}
+
+
+h1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    /*Mudar a fonte que está no HTML*/
+    font-size: 56px;
+    /*Mudar o tamanho da fonte*/
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-style: italic;
+    /*Mudar o Estilo da Fonte: Negrito,Italico e Etc*/
+    font-weight: normal;
+    /*Tira o negrito da cor da fonte do texto*/
+}
+
+h3{
+    font-size:38px;
+   text-transform: uppercase;
+   /*Mudar se a fonte é tudo maisculo, tudo minusculo e etc*/
+   text-align: center;
+   /*Colocar o texto no Centro*/
+   text-decoration: underline;
+   /*Colocar a fonte suplinada*/
+   background-color: blueviolet;
+}
+
+p{
+    text-indent: 58px;
+    font-size: 28px;
+    text-align: left;
+    font-variant: small-caps;
+}
+
+a{
+    text-decoration: none;
+    /*Tirar o suplinhado que já vem de padrão*/
+}
+
+.destaque{
+    color: blue;
+}
